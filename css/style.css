@@ -1,0 +1,22 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.header{
+    background-color: #264653;
+}
+.para{
+    color: #E0E0E0;
+    font-weight: 300;
+}
+.button{
+    background-color: #E76F51;
+}
+.g-scale{
+    filter: grayscale(1);
+}
+.heading{
+    font-size: 48px;
+}
+.h-span{
+    color: #E76F51;
+}
