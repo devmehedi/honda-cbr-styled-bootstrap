@@ -1,4 +1,6 @@
 body{
+    margin: 0;
+    padding: 0;
     font-family: 'Poppins', sans-serif;
 }
 .header{
@@ -19,4 +21,18 @@ body{
 }
 .h-span{
     color: #E76F51;
+}
+.star{
+    color: #E77C40;
+}
+.client{
+    color: #23A6F0;
+}
+.happy-c-3{
+    width: 150px;
+    height: 200px;
+    border-radius: 50%;
+}
+.ride{
+    background-color: #0EBF7F;
 }
